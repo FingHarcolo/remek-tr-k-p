@@ -1,2 +1,2 @@
-# remek-tr-k-p
+# remek-trekep
 tényleg tré
